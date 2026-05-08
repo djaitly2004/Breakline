@@ -1,5 +1,5 @@
-**Division 1 Soccer Analytics**
+# **Division 1 Soccer Analytics**
 Breakline Project Group 1 of Triton Ball Sports Analytics Club
 
-Methodology
+## Methodology
 To be continued...
